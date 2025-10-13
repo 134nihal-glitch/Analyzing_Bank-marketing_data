@@ -85,13 +85,27 @@ o	Custom Charting & KPIs
 ________________________________________
 **Deliverables**
 
+1.	Interactive Excel dashboard visualizing campaign outcomes by age, job, marital status, and education.
+2.	Pivot tables summarizing demographic counts and campaign response data.
+3.	Charts showing response rates by age, education, and previous campaign results.
+4.	KPIs highlighting overall success rate, top-performing groups, and campaign effectiveness.
 
 ________________________________________
 **Insights (Sample Findings)**
 
+1.	Middle-aged customers (Age Groups 3–4) show the highest engagement and response rates.
+2.	Higher education levels and married status strongly correlate with better campaign success.
+3.	Previous campaign outcomes significantly influence current response behavior.
+4.	Blue-collar and management roles form the largest and most responsive job categories.
+
 
 ________________________________________
 **Future Enhancements**
+
+1.	Add predictive analytics to forecast customer response probabilities.
+2.	Perform time-series and channel analysis for seasonal and outreach insights.
+3.	Create deeper segmentations combining demographics like job and education.
+4.	Integrate geospatial and automated dashboard updates for real-time decision support.
 
 
 ________________________________________
